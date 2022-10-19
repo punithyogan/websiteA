@@ -1,5 +1,3 @@
 Write some lines of text.
 
-The great DevOps
-
-Cloud
+ great DevOps
